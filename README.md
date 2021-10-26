@@ -12,5 +12,5 @@
 ובכך יהיה לו יותר סיכוי לנצח בהמשך\
 מי שנשאר אחרון מנצח.\
   למידע נוסף: 
-  [לחץ כאן](https://github.com/S-DevelopeGame/BattleForest/wiki)
+  [לחץ כאן](https://github.com/S-DevelopeGame/Warzones/wiki)
 </div>
